@@ -1,0 +1,7 @@
+/Users/Pankaj/Projects/TaskyApp/TaskyApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/Pankaj/Projects/TaskyApp/TaskyApp/bin/Debug/Xamarin.Forms.Core.dll
+/Users/Pankaj/Projects/TaskyApp/TaskyApp/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/Pankaj/Projects/TaskyApp/TaskyApp/bin/Debug/TaskyApp.dll.mdb
+/Users/Pankaj/Projects/TaskyApp/TaskyApp/bin/Debug/TaskyApp.dll
+/Users/Pankaj/Projects/TaskyApp/TaskyApp/obj/Debug/TaskyApp.dll
+/Users/Pankaj/Projects/TaskyApp/TaskyApp/obj/Debug/TaskyApp.dll.mdb
